@@ -12,10 +12,10 @@
 ```"Invis" "200" //255 - full visibility\ 0 - full invisibility```
 - Add phrase to vip_modules.phrases.txt
 ```
-"Invis"
+"FastReload"
 {
-   "ru"    "Прозрачность"
-   "en"    "Invis"
+   "ru"        "Быстрая перезарядка"
+   "en"        "Fast reload"
 }
 ```
 
