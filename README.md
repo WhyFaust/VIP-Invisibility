@@ -2,8 +2,8 @@
 #### Invisibility for VIP players
 
 ### Requirements
-SourceMod 1.7.3 and higher
-[[VIP] Core v2.0](https://github.com/R1KO/VIP-Core) and higher
+- SourceMod 1.7.3 and higher
+- [[VIP] Core v2.0](https://github.com/R1KO/VIP-Core) and higher
 
 ### Install
 - Unpack the archive.
